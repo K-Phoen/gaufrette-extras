@@ -1,4 +1,4 @@
-Gaufrette Extras [![Build Status](https://travis-ci.org/K-Phoen/Vex.png?branch=master)](https://travis-ci.org/K-Phoen/Vex)
+Gaufrette Extras [![Build Status](https://travis-ci.org/K-Phoen/gaufrette-extras.png?branch=master)](https://travis-ci.org/K-Phoen/gaufrette-extras)
 =========================
 
 **Gaufrette Exras** is a PHP library providing extra features to the awesome
