@@ -15,7 +15,7 @@ Just create a `composer.json` file for your project:
 ```json
 {
     "require": {
-        "kphoen/gaufrette-extras": "dev-master"
+        "kphoen/gaufrette-extras": "~1.0"
     }
 }
 ```
@@ -61,7 +61,7 @@ To run unit tests, you'll need cURL and a set of dependencies you can install
 using Composer:
 
 ```bash
-php composer.phar install --dev
+php composer.phar install
 ```
 
 Once installed, just launch the following command:
@@ -74,5 +74,5 @@ Once installed, just launch the following command:
 License
 =======
 
-This library is released under the MIT License. See the bundled LICENSE file
+This library is released under the MIT license. See the bundled LICENSE file
 for details.
