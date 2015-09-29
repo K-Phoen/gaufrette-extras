@@ -61,4 +61,9 @@ class ResolvableAdapter implements AdapterInterface, ResolverInterface
     {
         return $this->adapter->isDirectory($key);
     }
+
+    public function getOriginalAdapter()
+    {
+        return $this->adapter;
+    }
 }
