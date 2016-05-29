@@ -1,9 +1,15 @@
 Gaufrette Extras [![Build Status](https://travis-ci.org/K-Phoen/gaufrette-extras.png?branch=master)](https://travis-ci.org/K-Phoen/gaufrette-extras)
 =========================
 
-**Gaufrette Exras** is a PHP library providing extra features to the awesome
+**Gaufrette Extras** is a PHP library providing extra features to the awesome
 [Gaufrette](https://github.com/KnpLabs/Gaufrette).
 
+Status
+======
+
+This project is **DEPRECATED** and should NOT be used. 
+
+If someone magically appears and wants to maintain this project, I'll gladly give access to this repository.
 
 Installation
 ============
